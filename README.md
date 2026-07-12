@@ -2,130 +2,206 @@
 
 # Muhammad Salman Khan
 
-### Computer Science Student • AI Researcher • Computer Vision • Remote Sensing
+### Computer Vision • Remote Sensing • Deep Learning • AI Research
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Vision+Researcher;Remote+Sensing+AI;Deep+Learning+Engineer;Building+AI+Projects;Future+MS+Researcher" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Researcher;Computer+Vision+Engineer;Remote+Sensing+Enthusiast;Building+AI+Systems+for+Real+World+Problems" />
+
+<br>
+
+<p>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/msalmankhan03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=msalmankhan03&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-🎓 BS Computer Science
+I'm **Muhammad Salman Khan**, a Computer Science undergraduate with a strong interest in **Computer Vision**, **Remote Sensing**, and **Artificial Intelligence**.
 
-📍 Pakistan
-
-I am passionate about Artificial Intelligence, with a primary focus on Computer Vision and Remote Sensing.
-
-Currently I am working toward publishing research in AI while building practical deep learning projects involving object detection, image segmentation, and vision transformers.
+My goal is to build AI systems that solve real-world problems while contributing to research through high-quality publications. I enjoy working on deep learning pipelines, object detection, image segmentation, and modern vision foundation models.
 
 ---
 
-# 🔬 Research Interests
+# Research Interests
 
-- Remote Sensing
 - Computer Vision
+- Remote Sensing
 - Object Detection
 - Image Segmentation
 - Vision Transformers
+- Vision-Language Models
 - Foundation Models
-- Vision Language Models
 - Geospatial AI
+- Explainable AI
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
-- Satellite Image Analysis
 - Remote Sensing Object Detection
-- AI Research
+- Satellite Image Analysis
+- Vision Transformers
 - PyTorch
 - RT-DETR
-- YOLO
 - DINO
-- Multimodal Learning
+- Segment Anything (SAM)
+- Research Paper Development
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
 
 ---
 
 ## AI & Deep Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+<p>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+<img src="https://skillicons.dev/icons?i=pytorch"/>
 
-![Ultralytics](https://img.shields.io/badge/YOLO-black?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
-
----
-
-# 📚 Currently Learning
-
-- Open Vocabulary Detection
-- Remote Sensing Foundation Models
-- Segment Anything
-- Agentic AI
-- Large Vision Models
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
 
 </p>
 
----
+**Libraries**
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📌 Featured Projects
-
-🚧 Coming Soon
-
-- Remote Sensing Object Detection
-- Satellite Segmentation
-- Open Vocabulary Detection
-- Vision Transformer From Scratch
-- Research Paper Implementations
+- NumPy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- Albumentations
+- Ultralytics
+- HuggingFace Transformers
 
 ---
 
-# 🌍 Connect With Me
+# Research Roadmap
 
-GitHub
+| Status | Goal |
+|---------|------|
+| ✅ | Python |
+| ✅ | Deep Learning |
+| ✅ | Computer Vision |
+| 🔄 | Remote Sensing |
+| 🔄 | Vision Transformers |
+| 🔄 | Foundation Models |
+| ⏳ | First Research Publication |
+| ⏳ | MS Scholarship |
+| ⏳ | Open Source AI Projects |
 
-LinkedIn
+---
 
-Email
+# Featured Projects
+
+### 🛰 Remote Sensing Object Detection
+
+Deep learning framework for detecting objects from satellite imagery.
+
+---
+
+### 🌍 Satellite Image Segmentation
+
+Semantic segmentation pipeline for Earth observation datasets.
+
+---
+
+### 🧠 Vision Transformer Implementations
+
+Implementing modern transformer architectures for computer vision.
+
+---
+
+### 📖 Research Paper Implementations
+
+Reproducing state-of-the-art research papers.
+
+---
+
+### 🤖 Agentic AI
+
+Building intelligent AI systems with reasoning and tool use.
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmankhan03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmankhan03&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile.
+<img src="https://streak-stats.demolab.com?user=msalmankhan03&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Current Learning
+
+- Open Vocabulary Detection
+- Vision Foundation Models
+- Remote Sensing Foundation Models
+- Agentic AI
+- Large Vision Models
+- Multimodal Learning
+
+---
+
+# 2026 Goals
+
+- Publish my first AI research paper
+- Build multiple open-source AI projects
+- Master Remote Sensing
+- Contribute to open-source
+- Pursue a fully funded MS scholarship
+
+---
+
+# Connect
+
+<p>
+
+📧 Email: YOUR_EMAIL
+
+💼 LinkedIn: YOUR_LINKEDIN
+
+💻 GitHub: https://github.com/msalmankhan03
+
+</p>
+
+---
+
+<div align="center">
+
+### Building AI for Research, Learning, and Real-World Impact
 
 </div>
