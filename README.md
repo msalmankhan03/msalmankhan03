@@ -1,27 +1,31 @@
+```markdown
 <div align="center">
+
+<img src="./assets/coding.gif.gif" width="100%" alt="Banner"/>
 
 # Muhammad Salman Khan
 
-### Computer Vision • Remote Sensing • Deep Learning • AI Research
+### Computer Vision • Remote Sensing • Deep Learning • Artificial Intelligence
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Researcher;Computer+Vision+Engineer;Remote+Sensing+Enthusiast"/>
-
-<br><br>
-
-<img src="./assets/coding.gif.gif" width="850"/>
-
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Researcher;Computer+Vision+Engineer;Remote+Sensing+Enthusiast;Building+AI+Systems+for+Real+World+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Researcher;Computer+Vision+Engineer;Remote+Sensing+Research;Building+Research+Driven+AI+Systems;PyTorch+%7C+Computer+Vision+%7C+Deep+Learning"/>
 
 <br>
 
-<p>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/msalmankhan03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-</p>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=msalmankhan03&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/msalmankhan03">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=msalmankhan03&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -29,42 +33,125 @@
 
 # About Me
 
-I'm **Muhammad Salman Khan**, a Computer Science undergraduate with a strong interest in **Computer Vision**, **Remote Sensing**, and **Artificial Intelligence**.
+I am **Muhammad Salman Khan**, an undergraduate Computer Science student with a research focus on **Computer Vision**, **Remote Sensing**, and **Deep Learning**.
 
-My goal is to build AI systems that solve real-world problems while contributing to research through high-quality publications. I enjoy working on deep learning pipelines, object detection, image segmentation, and modern vision foundation models.
+My work is centered on developing vision-based artificial intelligence systems for challenging real-world problems, particularly in Earth observation and visual understanding. I enjoy building reproducible deep learning pipelines, implementing state-of-the-art research, and exploring modern transformer-based architectures for image analysis.
+
+Currently, I am expanding my expertise in remote sensing, foundation models, and large-scale vision systems while building open-source projects and preparing for graduate research.
 
 ---
 
 # Research Interests
 
-- Computer Vision
-- Remote Sensing
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Computer Vision
+
 - Object Detection
-- Image Segmentation
-- Vision Transformers
-- Vision-Language Models
-- Foundation Models
+- Image Classification
+- Semantic Segmentation
+- Instance Segmentation
+
+</td>
+
+<td width="50%">
+
+### Remote Sensing
+
+- Earth Observation
+- Satellite Imagery
 - Geospatial AI
+- Environmental Monitoring
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Deep Learning
+
+- CNNs
+- Vision Transformers
+- Representation Learning
+- Foundation Models
+
+</td>
+
+<td>
+
+### Artificial Intelligence
+
+- Vision-Language Models
 - Explainable AI
+- Model Optimization
+- AI Research
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # Current Focus
 
-- Remote Sensing Object Detection
-- Satellite Image Analysis
-- Vision Transformers
-- PyTorch
-- RT-DETR
-- DINO
-- Segment Anything (SAM)
-- Research Paper Development
+<table>
+
+<tr>
+
+<td>
+
+🔬 **Research**
+
+Developing computer vision models for remote sensing applications.
+
+</td>
+
+<td>
+
+🛰 **Earth Observation**
+
+Satellite imagery understanding and geospatial intelligence.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🧠 **Deep Learning**
+
+Vision Transformers, RT-DETR, YOLO, and PyTorch.
+
+</td>
+
+<td>
+
+📖 **Research**
+
+Reproducing and implementing modern AI research papers.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # Tech Stack
 
-## Languages
+### Programming Languages
 
 <p>
 
@@ -76,11 +163,13 @@ My goal is to build AI systems that solve real-world problems while contributing
 
 <img src="https://skillicons.dev/icons?i=linux"/>
 
+<img src="https://skillicons.dev/icons?i=bash"/>
+
 </p>
 
 ---
 
-## AI & Deep Learning
+### Artificial Intelligence & Machine Learning
 
 <p>
 
@@ -90,118 +179,38 @@ My goal is to build AI systems that solve real-world problems while contributing
 
 <img src="https://skillicons.dev/icons?i=opencv"/>
 
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
 </p>
 
-**Libraries**
+**Frameworks & Libraries**
 
+- PyTorch
+- TensorFlow
+- OpenCV
 - NumPy
 - Pandas
-- Scikit-Learn
 - Matplotlib
+- Scikit-learn
 - Albumentations
+- Hugging Face Transformers
 - Ultralytics
-- HuggingFace Transformers
 
 ---
 
-# Research Roadmap
-
-| Status | Goal |
-|---------|------|
-| ✅ | Python |
-| ✅ | Deep Learning |
-| ✅ | Computer Vision |
-| 🔄 | Remote Sensing |
-| 🔄 | Vision Transformers |
-| 🔄 | Foundation Models |
-| ⏳ | First Research Publication |
-| ⏳ | MS Scholarship |
-| ⏳ | Open Source AI Projects |
-
----
-
-# Featured Projects
-
-### 🛰 Remote Sensing Object Detection
-
-Deep learning framework for detecting objects from satellite imagery.
-
----
-
-### 🌍 Satellite Image Segmentation
-
-Semantic segmentation pipeline for Earth observation datasets.
-
----
-
-### 🧠 Vision Transformer Implementations
-
-Implementing modern transformer architectures for computer vision.
-
----
-
-### 📖 Research Paper Implementations
-
-Reproducing state-of-the-art research papers.
-
----
-
-### 🤖 Agentic AI
-
-Building intelligent AI systems with reasoning and tool use.
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmankhan03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmankhan03&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=msalmankhan03&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Current Learning
-
-- Open Vocabulary Detection
-- Vision Foundation Models
-- Remote Sensing Foundation Models
-- Agentic AI
-- Large Vision Models
-- Multimodal Learning
-
----
-
-# 2026 Goals
-
-- Publish my first AI research paper
-- Build multiple open-source AI projects
-- Master Remote Sensing
-- Contribute to open-source
-- Pursue a fully funded MS scholarship
-
----
-
-# Connect
+### Development Environment
 
 <p>
 
-📧 Email: YOUR_EMAIL
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
-💼 LinkedIn: YOUR_LINKEDIN
+<img src="https://skillicons.dev/icons?i=github"/>
 
-💻 GitHub: https://github.com/msalmankhan03
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=ubuntu"/>
 
 </p>
 
@@ -209,6 +218,7 @@ Building intelligent AI systems with reasoning and tool use.
 
 <div align="center">
 
-### Building AI for Research, Learning, and Real-World Impact
+### "Building Intelligent Vision Systems Through Research and Engineering"
 
 </div>
+```
