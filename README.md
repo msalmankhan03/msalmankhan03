@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="./assets/coding.gif" width="850"/>
+<img src="./assets/coding.gif.gif" width="850"/>
 
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Researcher;Computer+Vision+Engineer;Remote+Sensing+Enthusiast;Building+AI+Systems+for+Real+World+Problems" />
