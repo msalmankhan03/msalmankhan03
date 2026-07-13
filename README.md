@@ -1,4 +1,4 @@
-```markdown
+markdown
 <div align="center">
 
 <img src="./assets/coding.gif.gif" width="100%" alt="Banner"/>
@@ -221,4 +221,3 @@ Reproducing and implementing modern AI research papers.
 ### "Building Intelligent Vision Systems Through Research and Engineering"
 
 </div>
-```
