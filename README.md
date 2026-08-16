@@ -6,15 +6,15 @@
 
 ### Computer Vision • Remote Sensing • Deep Learning • Artificial Intelligence
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Researcher;Computer+Vision+Engineer;Remote+Sensing+Research;Building+Research+Driven+AI+Systems;PyTorch+%7C+Computer+Vision+%7C+Deep+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Researcher[...]
 
 <br>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mskhanicup.9@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/muhammad-salman-khan-87760231b/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -34,7 +34,7 @@
 
 I am **Muhammad Salman Khan**, an undergraduate Computer Science student with a research focus on **Computer Vision**, **Remote Sensing**, and **Deep Learning**.
 
-My work is centered on developing vision-based artificial intelligence systems for challenging real-world problems, particularly in Earth observation and visual understanding. I enjoy building reproducible deep learning pipelines, implementing state-of-the-art research, and exploring modern transformer-based architectures for image analysis.
+My work is centered on developing vision-based artificial intelligence systems for challenging real-world problems, particularly in Earth observation and visual understanding. I enjoy building reprodu[...]
 
 Currently, I am expanding my expertise in remote sensing, foundation models, and large-scale vision systems while building open-source projects and preparing for graduate research.
 
@@ -414,11 +414,11 @@ Research Methodology
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mskhanicup.9@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/muhammad-salman-khan-87760231b/?skipRedirect=true)">
+<a href="https://www.linkedin.com/in/muhammad-salman-khan-87760231b/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -435,7 +435,6 @@ Research Methodology
 *"Building research-driven AI systems through curiosity, experimentation, and continuous learning."*
 
 </div>
-
 
 
 ### "Building Intelligent Vision Systems Through Research and Engineering"
